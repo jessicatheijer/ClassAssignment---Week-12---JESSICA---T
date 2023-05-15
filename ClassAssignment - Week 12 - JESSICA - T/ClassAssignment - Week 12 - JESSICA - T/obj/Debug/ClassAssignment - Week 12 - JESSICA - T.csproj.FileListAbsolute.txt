@@ -1,0 +1,23 @@
+C:\Users\windows 10\source\repos\ClassAssignment - Week 12 - JESSICA - T\ClassAssignment - Week 12 - JESSICA - T\bin\Debug\ClassAssignment - Week 12 - JESSICA - T.exe.config
+C:\Users\windows 10\source\repos\ClassAssignment - Week 12 - JESSICA - T\ClassAssignment - Week 12 - JESSICA - T\bin\Debug\ClassAssignment - Week 12 - JESSICA - T.exe
+C:\Users\windows 10\source\repos\ClassAssignment - Week 12 - JESSICA - T\ClassAssignment - Week 12 - JESSICA - T\bin\Debug\ClassAssignment - Week 12 - JESSICA - T.pdb
+C:\Users\windows 10\source\repos\ClassAssignment - Week 12 - JESSICA - T\ClassAssignment - Week 12 - JESSICA - T\bin\Debug\MySql.Data.dll
+C:\Users\windows 10\source\repos\ClassAssignment - Week 12 - JESSICA - T\ClassAssignment - Week 12 - JESSICA - T\bin\Debug\Google.Protobuf.dll
+C:\Users\windows 10\source\repos\ClassAssignment - Week 12 - JESSICA - T\ClassAssignment - Week 12 - JESSICA - T\bin\Debug\ZstdNet.dll
+C:\Users\windows 10\source\repos\ClassAssignment - Week 12 - JESSICA - T\ClassAssignment - Week 12 - JESSICA - T\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\windows 10\source\repos\ClassAssignment - Week 12 - JESSICA - T\ClassAssignment - Week 12 - JESSICA - T\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\windows 10\source\repos\ClassAssignment - Week 12 - JESSICA - T\ClassAssignment - Week 12 - JESSICA - T\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\windows 10\source\repos\ClassAssignment - Week 12 - JESSICA - T\ClassAssignment - Week 12 - JESSICA - T\bin\Debug\System.Buffers.dll
+C:\Users\windows 10\source\repos\ClassAssignment - Week 12 - JESSICA - T\ClassAssignment - Week 12 - JESSICA - T\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\windows 10\source\repos\ClassAssignment - Week 12 - JESSICA - T\ClassAssignment - Week 12 - JESSICA - T\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\windows 10\source\repos\ClassAssignment - Week 12 - JESSICA - T\ClassAssignment - Week 12 - JESSICA - T\bin\Debug\MySql.Data.xml
+C:\Users\windows 10\source\repos\ClassAssignment - Week 12 - JESSICA - T\ClassAssignment - Week 12 - JESSICA - T\obj\Debug\ClassAssignment - Week 12 - JESSICA - T.csproj.AssemblyReference.cache
+C:\Users\windows 10\source\repos\ClassAssignment - Week 12 - JESSICA - T\ClassAssignment - Week 12 - JESSICA - T\obj\Debug\ClassAssignment - Week 12 - JESSICA - T.csproj.SuggestedBindingRedirects.cache
+C:\Users\windows 10\source\repos\ClassAssignment - Week 12 - JESSICA - T\ClassAssignment - Week 12 - JESSICA - T\obj\Debug\ClassAssignment - Week 12 - JESSICA - T.exe.config
+C:\Users\windows 10\source\repos\ClassAssignment - Week 12 - JESSICA - T\ClassAssignment - Week 12 - JESSICA - T\obj\Debug\ClassAssignment___Week_12___JESSICA___T.Form1.resources
+C:\Users\windows 10\source\repos\ClassAssignment - Week 12 - JESSICA - T\ClassAssignment - Week 12 - JESSICA - T\obj\Debug\ClassAssignment___Week_12___JESSICA___T.Properties.Resources.resources
+C:\Users\windows 10\source\repos\ClassAssignment - Week 12 - JESSICA - T\ClassAssignment - Week 12 - JESSICA - T\obj\Debug\ClassAssignment - Week 12 - JESSICA - T.csproj.GenerateResource.cache
+C:\Users\windows 10\source\repos\ClassAssignment - Week 12 - JESSICA - T\ClassAssignment - Week 12 - JESSICA - T\obj\Debug\ClassAssignment - Week 12 - JESSICA - T.csproj.CoreCompileInputs.cache
+C:\Users\windows 10\source\repos\ClassAssignment - Week 12 - JESSICA - T\ClassAssignment - Week 12 - JESSICA - T\obj\Debug\ClassAssignment - Week 12 - JESSICA - T.csproj.CopyComplete
+C:\Users\windows 10\source\repos\ClassAssignment - Week 12 - JESSICA - T\ClassAssignment - Week 12 - JESSICA - T\obj\Debug\ClassAssignment - Week 12 - JESSICA - T.exe
+C:\Users\windows 10\source\repos\ClassAssignment - Week 12 - JESSICA - T\ClassAssignment - Week 12 - JESSICA - T\obj\Debug\ClassAssignment - Week 12 - JESSICA - T.pdb
